@@ -15,6 +15,15 @@
 
 ---
 
+## affaan-m/ECC
+- url: https://github.com/affaan-m/ECC
+- tags: agents, harness, skills, test-today
+- why: сетап из рилса @roiexpert — harness для Claude Code / Codex / OpenCode / Cursor. Протестить сегодня.
+- status: active
+- added: 2026-10-01
+- source: https://www.instagram.com/reel/Dd7KZn2to9i/
+- reminder: 2026-10-01 протестировать install
+
 ## sindresorhus/awesome
 - url: https://github.com/sindresorhus/awesome
 - tags: meta, lists
